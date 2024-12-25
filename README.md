@@ -2,6 +2,8 @@
 
 An MCP server for ClickHouse.
 
+<a href="https://glama.ai/mcp/servers/9292900sx1"><img width="380" height="200" src="https://glama.ai/mcp/servers/9292900sx1/badge" alt="ClickHouse Server MCP server" /></a>
+
 ## Features
 
 ### Tools
