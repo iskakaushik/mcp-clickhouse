@@ -1,5 +1,8 @@
 # ClickHouse MCP Server
 
+# Migrated to https://github.com/ClickHouse/mcp-clickhouse
+
+
 An MCP server for ClickHouse.
 
 ## Features
